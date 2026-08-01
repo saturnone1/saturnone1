@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm saturnone1
 
-<!--
-**saturnone1/saturnone1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Windows and .NET software with a focus on AI developer tools, Visual Studio integration, Model Context Protocol (MCP), and distributed systems.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Visual Studio extensions, VSIX packaging, and IDE automation
+- Local-first AI assistants and MCP integrations
+- RAG services and document-grounded retrieval
+- DDS-based distributed and real-time systems
+- C#, .NET, TypeScript, Node.js, C++, CMake, and Python
+
+## Featured projects
+
+| Project | Highlights |
+| --- | --- |
+| [Cline for Visual Studio 2022](https://github.com/saturnone1/Cline_for_VisualStudio_2022_17.12) | A Cline-style AI coding agent for Visual Studio 2022, built as a VSIX host with WebView2 and a Node.js sidecar. One shared codebase produces packages for Visual Studio 17.0 and 17.12. |
+| [VS MCP Server for Visual Studio 2022 17.12](https://github.com/saturnone1/vs_2022_mcp) | A Visual Studio MCP Server port adapted for Visual Studio 2022 17.12 and .NET 9. |
+| [MCP Server Bundle](https://github.com/saturnone1/MCP-Servers-LIG) | A C#/.NET collection of MCP servers for developer tools, databases, infrastructure, and Windows engineering applications. |
+| [LIGClaw](https://github.com/saturnone1/LIGClaw) | An early-stage, local-first Windows assistant built around WPF, a Node.js sidecar, and versioned JSON-RPC IPC. |
+| [Link16 RAG](https://github.com/saturnone1/Link16_RAG) | A .NET 9 REST RAG service with document ingestion, SQLite-backed retrieval, tests, and source-grounded responses. |
+| [DDSCPP](https://github.com/saturnone1/DDS_CPP) | A cross-platform C++20 DDS client library for RTI Connext DDS with generated types and CMake-based validation. |
+
+## Engineering approach
+
+I favor clear runtime boundaries, reproducible builds, offline-friendly deployment, automated validation, and documentation that makes architectural decisions explicit.
