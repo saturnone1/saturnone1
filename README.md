@@ -19,7 +19,7 @@ I build Windows and .NET software with a focus on AI developer tools, Visual Stu
 | [MCP Server Bundle](https://github.com/saturnone1/MCP-Servers-LIG) | A C#/.NET collection of MCP servers for developer tools, databases, infrastructure, and Windows engineering applications. |
 | [LIGClaw](https://github.com/saturnone1/LIGClaw) | An early-stage, local-first Windows assistant built around WPF, a Node.js sidecar, and versioned JSON-RPC IPC. |
 | [Link16 RAG](https://github.com/saturnone1/Link16_RAG) | A .NET 9 REST RAG service with document ingestion, SQLite-backed retrieval, tests, and source-grounded responses. |
-| [DDSCPP](https://github.com/saturnone1/DDS_CPP) | A cross-platform C++20 DDS client library for RTI Connext DDS with generated types and CMake-based validation. |
+| DDSClient *(private)* | A cross-platform DDS client project with unified Windows and Linux build, validation, and packaging workflows. |
 
 ## Engineering approach
 
