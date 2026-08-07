@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  Windows/.NET 기반 AI 개발 도구와 실시간 분산 시스템을 만들고 있습니다.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white" alt="Visual Studio" />
